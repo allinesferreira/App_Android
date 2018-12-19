@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7c0aff4e70017637ef2984aaab320617/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f2db09d834f478e7d96392407119ddb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/63e0024a6c4d65412088abc63a5cf6e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2219998b045b620940f8330026f9e4d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/103ea5817dae8c2a1387b3c8319a10bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/ab5c1680892297cb746468c1f205d2d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/677a88c074da78acd039d936174840eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/30d44fc3fd11d8e0f61beeddbe430ce4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/allinesf/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/cd1d338a664dd7275b9276fd27964dd2/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f2db09d834f478e7d96392407119ddb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f2db09d834f478e7d96392407119ddb/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:6:9-45
+	android:theme
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:8:9-56
+activity#br.com.casadocodigo.boaviagem.BoaViagemActivity
+ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:9:9-17:20
+	android:label
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:11:13-45
+	android:name
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:10:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:15:27-74
+activity#br.com.casadocodigo.boaviagem.DashboardActivity
+ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:18:13-58
+	android:name
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:18:23-56
+activity#br.com.casadocodigo.boaviagem.ViagemActivity
+ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:19:13-55
+	android:name
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:19:23-53
+activity#br.com.casadocodigo.boaviagem.GastoActivity
+ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:20:13-54
+	android:name
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml:20:23-52
+uses-sdk
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7c0aff4e70017637ef2984aaab320617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7c0aff4e70017637ef2984aaab320617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f2db09d834f478e7d96392407119ddb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f2db09d834f478e7d96392407119ddb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/63e0024a6c4d65412088abc63a5cf6e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/63e0024a6c4d65412088abc63a5cf6e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2219998b045b620940f8330026f9e4d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2219998b045b620940f8330026f9e4d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/103ea5817dae8c2a1387b3c8319a10bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/103ea5817dae8c2a1387b3c8319a10bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/ab5c1680892297cb746468c1f205d2d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/ab5c1680892297cb746468c1f205d2d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/677a88c074da78acd039d936174840eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/677a88c074da78acd039d936174840eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/30d44fc3fd11d8e0f61beeddbe430ce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/allinesf/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/30d44fc3fd11d8e0f61beeddbe430ce4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/allinesf/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/cd1d338a664dd7275b9276fd27964dd2/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/allinesf/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/cd1d338a664dd7275b9276fd27964dd2/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+		ADDED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
+		INJECTED from /home/allinesf/AndroidStudioProjects/BoaViagem/app/src/main/AndroidManifest.xml
